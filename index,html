@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>4Deksticker</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+    <!-- Premium Top Bar -->
+<div class="announcement-bar">
+    <div class="ann-left">
+        ✦ Creative Branding & Sticker Production 
+    </div> 
+</div>
+<nav>
+   <div class="logo-wrapper">
+    <div class="logo">4deksticker</div>
+    <div class="logo-sparkle"></div>
+</div>
+</nav>
+
+<section class="hero">
+  <div class="lux-bg">
+    <div class="sparkle"></div>
+</div>
+    <div class="hero-overlay"></div>
+
+    <div class="hero-content"><div class="logo" id="luxLogo">4deksticker Studio </div>
+        
+
+        <h1>
+            รับออกแบบ <span>ป้าย สติ๊กเกอร์</span><br>
+            และงานโฆษณาครบวงจร
+        </h1>
+
+        <p>
+            งานดีไซน์คุณภาพสูง คมชัดทุกชิ้นงาน พร้อมผลิตและมีบริการส่ง
+        </p>
+
+            <a href="#contact" class="btn-primary">ติดต่อเรา</a>
+            <a href="#" class="btn-outline">ดูผลงาน</a>
+        </div>
+    </div>
+</section>
+
+<section class="contact">
+
+  <h2>Contact Us</h2>
+
+  <div class="contact-grid">
+
+    <a href="https://lin.ee/BOSnMod" target="_blank" class="contact-card">
+      <i class="fab fa-line"></i>
+      <h3>Line</h3>
+      <p>@yourlineid</p>
+    </a>
+
+    <a href="https://www.instagram.com/4deksticker?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw%3D%3D" target="_blank" class="contact-card">
+      <i class="fab fa-instagram"></i>
+      <h3>Instagram</h3>
+      <p>4deksticker</p>
+    </a>
+
+    <a href="https://www.facebook.com/share/1AbGmBTffj/?mibextid=wwXIfr" target="_blank" class="contact-card">
+      <i class="fab fa-facebook-f"></i>
+      <h3>Facebook</h3>
+      <p>facebook.com/yourpage</p>
+    </a>
+
+    <a href="#" target="_blank" class="contact-card">
+      <i class="fas fa-envelope"></i>
+      <h3>Email</h3>
+      <p>4dekstiker@gmail.com</p>
+    </a>
+
+    <a href="#" class="contact-card">
+      <i class="fas fa-phone"></i>
+      <h3>Phone</h3>
+      <p>081-234-5678</p>
+    </a>
+
+  </div>
+
+</section>
+
+<footer>
+    © 2026 4Deksticker | ขอบคุณที่ใช้บริการ
+</footer>
+
+</body>
+</html>
